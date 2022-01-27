@@ -35,9 +35,10 @@ This repository contains resources on starting with R for biologists. [R](https:
  - [Principal Component Analysis](https://danhdtruong.com/PCA/)
  - [Non-negative Matrix Factorization](https://danhdtruong.com/Non-negative-Matrix-Factorization/)
 
-
 # Applications
 
+ - [RNA-seq](https://bioinformatics-core-shared-training.github.io/RNAseq-R/)
+ - [scRNA-seq](https://github.com/seandavi/awesome-single-cell)
 # Other
 
  - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
