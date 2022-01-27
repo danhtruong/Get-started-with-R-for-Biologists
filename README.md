@@ -4,7 +4,7 @@
  - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
  - [Basics](https://github.com/danhtruong/Starting-with-R-for-Biologists/#basics)
  - [Tidyverse](https://github.com/danhtruong/Starting-with-R-for-Biologists/#tidyverse)
- - [Data Science](https://github.com/danhtruong/Starting-with-R-for-Biologists/#datascience)
+ - [Data Science](https://github.com/danhtruong/Starting-with-R-for-Biologists/#data-science)
  - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#applications)
  - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#other)
 
@@ -31,6 +31,10 @@ This repository contains resources on starting with R for biologists. [R](https:
  - [Data Visualization with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/Tidyverse_ggplot2/lessons/03_ggplot2.md)
 
 # Data Science
+
+ - [Principal Component Analysis](https://danhdtruong.com/PCA/)
+ - [Non-negative Matrix Factorization](https://danhdtruong.com/Non-negative-Matrix-Factorization/)
+
 
 # Applications
 
