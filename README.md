@@ -15,3 +15,5 @@ This repository contains resources on starting with R for biologists. [R](https:
 
 # Other
 
+ - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
+
