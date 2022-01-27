@@ -12,7 +12,7 @@ This repository contains resources on starting with R for biologists. [R](https:
 
 # RStudio
 
- - [Introduction to R and Rstudio]https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html
+ - [Introduction to R and Rstudio](https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html)
 
 # Basics
 
