@@ -3,6 +3,7 @@
  - [Introduction](https://github.com/danhtruong/Starting-with-R-for-Biologists/#introduction)
  - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
  - [Basics](https://github.com/danhtruong/Starting-with-R-for-Biologists/#basics)
+ - [TidyVerse](https://github.com/danhtruong/Starting-with-R-for-Biologists/#tidyverse)
  - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#applications)
  - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#other)
 
@@ -21,6 +22,12 @@ This repository contains resources on starting with R for biologists. [R](https:
  - [Data wrangling: vectors and factors](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html)
  - [Exploratory data analysis](https://biodatascience.github.io/compbio/eda/EDA.html)
  - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) This tutorial was created by me. 
+
+# Tidyverse
+
+ - [Data Wrangling with Tidyverse](https://hbctraining.github.io/Intro-to-R-flipped/lessons/15_tidyverse.html)
+ - [Tidy data](https://r4ds.had.co.nz/tidy-data.html)
+ - [Data Visualization with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/Tidyverse_ggplot2/lessons/03_ggplot2.md)
 
 # Applications
 
