@@ -20,7 +20,7 @@ This repository contains resources on starting with R for biologists. [R](https:
  - [Functions in R](https://hbctraining.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html)
  - [Data wrangling: vectors and factors](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html)
  - [Exploratory data analysis](https://biodatascience.github.io/compbio/eda/EDA.html)
- - [Exploratory data analysis](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) This tutorial was created by me. 
+ - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) This tutorial was created by me. 
 
 # Applications
 
