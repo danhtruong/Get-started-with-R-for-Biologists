@@ -1,9 +1,9 @@
 # Starting-with-R-for-Biologists
 
- - [Introduction](https://github.com/danhtruong/Starting-with-R-for-Biologists/#Introduction)
- - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#RStudio)
- - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#Applications)
- - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#Other)
+ - [Introduction](https://github.com/danhtruong/Starting-with-R-for-Biologists/#introduction)
+ - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
+ - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#applications)
+ - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#other)
 
 # Introduction 
 
@@ -12,3 +12,4 @@
 # Applications
 
 # Other
+
