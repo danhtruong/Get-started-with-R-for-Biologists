@@ -1,4 +1,4 @@
-# Starting-with-R-for-Biologists
+# Get-started-with-R-for-Biologists
 
  - [Introduction](https://github.com/danhtruong/Starting-with-R-for-Biologists/#introduction)
  - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
@@ -10,7 +10,7 @@
 
 # Introduction 
 
-This repository contains resources on starting with R for biologists. [R](https://www.r-project.org){:target="_blank"} is a language and environment for statistical computing and graphics. It is widely used for a variety of statistical analysis (i.e., linear and nonlinear modelling, classical statistical tests, clustering, ets.). R is freely available and has a large collection of developed packages of different tools. One such is the [Tidyverse](https://www.tidyverse.org){:target="_blank"}, which is a collection of data science tools. 
+This repository contains resources on getting started with R for biologists. [R](https://www.r-project.org){:target="_blank"} is a language and environment for statistical computing and graphics. It is widely used for a variety of statistical analysis (i.e., linear and nonlinear modelling, classical statistical tests, clustering, ets.). R is freely available and has a large collection of developed packages of different tools. One such is the [Tidyverse](https://www.tidyverse.org){:target="_blank"}, which is a collection of data science tools. 
 
 # RStudio
 
