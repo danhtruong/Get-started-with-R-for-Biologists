@@ -3,7 +3,7 @@
  - [Introduction](https://github.com/danhtruong/Starting-with-R-for-Biologists/#introduction)
  - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
  - [Basics](https://github.com/danhtruong/Starting-with-R-for-Biologists/#basics)
- - [TidyVerse](https://github.com/danhtruong/Starting-with-R-for-Biologists/#tidyverse)
+ - [Tidyverse](https://github.com/danhtruong/Starting-with-R-for-Biologists/#tidyverse)
  - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#applications)
  - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#other)
 
