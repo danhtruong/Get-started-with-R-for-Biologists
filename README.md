@@ -10,37 +10,45 @@
 
 # Introduction 
 
-This repository contains resources on starting with R for biologists. [R](https://www.r-project.org) is a language and environment for statistical computing and graphics. It is widely used for a variety of statistical analysis (i.e., linear and nonlinear modelling, classical statistical tests, clustering, ets.). R is freely available and has a large collection of developed packages of different tools. One such is the [Tidyverse](https://www.tidyverse.org), which is a collection of data science tools. 
+This repository contains resources on starting with R for biologists. [R](https://www.r-project.org){:target="_blank"} is a language and environment for statistical computing and graphics. It is widely used for a variety of statistical analysis (i.e., linear and nonlinear modelling, classical statistical tests, clustering, ets.). R is freely available and has a large collection of developed packages of different tools. One such is the [Tidyverse](https://www.tidyverse.org){:target="_blank"}, which is a collection of data science tools. 
 
 # RStudio
 
- - [Introduction to R and Rstudio](https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html)
+ - [Introduction to R and Rstudio](https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html){:target="_blank"}
 
 # Basics
 
- - [R Syntax and Data Structures](https://hbctraining.github.io/Training-modules/IntroR/lessons/02_syntax_and_data_structures.html)
- - [Functions in R](https://hbctraining.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html)
- - [Data wrangling: vectors and factors](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html)
- - [Exploratory data analysis](https://biodatascience.github.io/compbio/eda/EDA.html)
- - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) This tutorial was created by me. 
+ - [R Syntax and Data Structures](https://hbctraining.github.io/Training-modules/IntroR/lessons/02_syntax_and_data_structures.html){:target="_blank"}
+ - [Functions in R](https://hbctraining.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html){:target="_blank"}
+ - [Data wrangling: vectors and factors](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html){:target="_blank"}
+ - [Exploratory data analysis](https://biodatascience.github.io/compbio/eda/EDA.html){:target="_blank"}
+ - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/){:target="_blank"} This tutorial was created by me. 
 
 # Tidyverse
 
- - [Data Wrangling with Tidyverse](https://hbctraining.github.io/Intro-to-R-flipped/lessons/15_tidyverse.html)
- - [Tidy data](https://r4ds.had.co.nz/tidy-data.html)
- - [Data Visualization with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/Tidyverse_ggplot2/lessons/03_ggplot2.md)
+ - [Data Wrangling with Tidyverse](https://hbctraining.github.io/Intro-to-R-flipped/lessons/15_tidyverse.html){:target="_blank"}
+ - [Tidy data](https://r4ds.had.co.nz/tidy-data.html){:target="_blank"}
+ - [Data Visualization with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/Tidyverse_ggplot2/lessons/03_ggplot2.md){:target="_blank"}
 
 # Data Science
 
  - [Principal Component Analysis](https://danhdtruong.com/PCA/)
  - [Non-negative Matrix Factorization](https://danhdtruong.com/Non-negative-Matrix-Factorization/)
+ - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/){:target="_blank"}
 
 # Applications
 
- - [RNA-seq](https://bioinformatics-core-shared-training.github.io/RNAseq-R/)
- - [scRNA-seq](https://github.com/seandavi/awesome-single-cell)
+ - [RNA-seq](https://bioinformatics-core-shared-training.github.io/RNAseq-R/){:target="_blank"}
+ - [scRNA-seq](https://github.com/seandavi/awesome-single-cell){:target="_blank"}
+
 # Other
 
- - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
- - [https://bookdown.org](https://bookdown.org) List of books written with bookdown for learning R.
+ - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home){:target="_blank"} Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
+ - [https://bookdown.org](https://bookdown.org){:target="_blank"} List of books written with bookdown for learning R.
+ - [R Bootcamp](https://r-bootcamp.netlify.app){:target="_blank"}
+ - [Learning Statistics with R](https://learningstatisticswithr.com){:target="_blank"}
+ - [Efficient R programming](https://bookdown.org/csgillespie/efficientR/){:target="_blank"}
+ - [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/){:target="_blank"}
+ - [Another Book on Data Science](https://www.anotherbookondatascience.com){:target="_blank"}
+ - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/){:target="_blank"}
 
