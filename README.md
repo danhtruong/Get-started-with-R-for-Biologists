@@ -4,6 +4,7 @@
  - [RStudio](https://github.com/danhtruong/Starting-with-R-for-Biologists/#rstudio)
  - [Basics](https://github.com/danhtruong/Starting-with-R-for-Biologists/#basics)
  - [Tidyverse](https://github.com/danhtruong/Starting-with-R-for-Biologists/#tidyverse)
+ - [Data Science](https://github.com/danhtruong/Starting-with-R-for-Biologists/#datascience)
  - [Applications](https://github.com/danhtruong/Starting-with-R-for-Biologists/#applications)
  - [Other](https://github.com/danhtruong/Starting-with-R-for-Biologists/#other)
 
@@ -28,6 +29,8 @@ This repository contains resources on starting with R for biologists. [R](https:
  - [Data Wrangling with Tidyverse](https://hbctraining.github.io/Intro-to-R-flipped/lessons/15_tidyverse.html)
  - [Tidy data](https://r4ds.had.co.nz/tidy-data.html)
  - [Data Visualization with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/Tidyverse_ggplot2/lessons/03_ggplot2.md)
+
+# Data Science
 
 # Applications
 
