@@ -22,7 +22,7 @@ This repository contains resources on getting started with R for biologists. [R]
  - [Functions in R](https://hbctraining.github.io/Training-modules/IntroR/lessons/03_functions-and-arguments.html)
  - [Data wrangling: vectors and factors](https://hbctraining.github.io/Training-modules/IntroR/lessons/04_data-wrangling.html)
  - [Exploratory data analysis](https://biodatascience.github.io/compbio/eda/EDA.html)
- - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) This tutorial was created by me. 
+ - [Exploratory data analysis in R](https://danhdtruong.com/Exploratory-Data-Analysis-in-R/) 
 
 # Tidyverse
 
@@ -34,6 +34,7 @@ This repository contains resources on getting started with R for biologists. [R]
 
  - [Principal Component Analysis](https://danhdtruong.com/PCA/)
  - [Non-negative Matrix Factorization](https://danhdtruong.com/Non-negative-Matrix-Factorization/)
+ - [K-means clustering](https://danhdtruong.com/K-means-from-scratch-in-R/)
  - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 
 # Applications
