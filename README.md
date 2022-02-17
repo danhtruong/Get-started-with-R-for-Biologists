@@ -15,6 +15,8 @@ This repository contains resources on getting started with R for biologists. [R]
 # RStudio
 
  - [Introduction to R and Rstudio](https://hbctraining.github.io/Training-modules/IntroR/lessons/01_Intro-to-R.html)
+ - [23 RStudio Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)
+ - [My favorite RStudio tips and tricks](https://datacornering.com/my-favorite-rstudio-tips-and-tricks/)
 
 # Basics
 
