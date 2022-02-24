@@ -47,6 +47,11 @@ This repository contains resources on getting started with R for biologists. [R]
  - [RNA-seq](https://bioinformatics-core-shared-training.github.io/RNAseq-R/)
  - [scRNA-seq](https://github.com/seandavi/awesome-single-cell)
 
+# Cheatsheets
+ - [Base R](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+ - [RStudio IDE]()
+ - [ggplot2]()
+ 
 # Other
 
  - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
