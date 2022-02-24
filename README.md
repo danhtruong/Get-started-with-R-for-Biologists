@@ -51,6 +51,7 @@ This repository contains resources on getting started with R for biologists. [R]
  - [Base R](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
  - [RStudio IDE](https://github.com/danhtruong/Get-started-with-R-for-Biologists/blob/main/rstudio-ide.pdf)
  - [ggplot2](https://github.com/danhtruong/Get-started-with-R-for-Biologists/blob/main/ggplot_theme_system_cheatsheet.pdf)
+ - [Stats](https://github.com/danhtruong/Get-started-with-R-for-Biologists/blob/main/linear_tests_cheat_sheet.pdf)
  
 # Other
 
