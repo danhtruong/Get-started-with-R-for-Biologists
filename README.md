@@ -41,6 +41,7 @@ This repository contains resources on getting started with R for biologists. [R]
  - [Non-negative Matrix Factorization](https://danhdtruong.com/Non-negative-Matrix-Factorization/)
  - [K-means clustering](https://danhdtruong.com/K-means-from-scratch-in-R/)
  - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+ - [cBioPortal](https://cbioportal.github.io/2020-cbioportal-r-workshop/)
 
 # Applications
 
