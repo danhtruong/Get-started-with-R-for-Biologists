@@ -64,4 +64,5 @@ This repository contains resources on getting started with R for biologists. [R]
  - [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  - [Another Book on Data Science](https://www.anotherbookondatascience.com)
  - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
+ - [CFDE](https://training.nih-cfde.org/en/latest/)
 
